@@ -1,0 +1,22 @@
+{
+  "name": "tea-chalange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevJP777/Tea-Chalange.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevJP777/Tea-Chalange/issues"
+  },
+  "homepage": "https://github.com/DevJP777/Tea-Chalange#readme",
+  "dependencies": {
+    "tea-chalange": "^1.0.0"
+  }
+}
