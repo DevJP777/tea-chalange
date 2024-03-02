@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/DevJP777/Tea-Chalange#readme",
   "dependencies": {
-    "tea-chalange": "^1.0.0"
+    "tea-chalange": "^1.0.1"
   }
 }
