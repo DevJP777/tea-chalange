@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DevJP777/Tea-Chalange.git"
+    "url": "https://github.com/DevJP777/Tea-Chalange.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DevJP777/Tea-Chalange/issues"
   },
-  "homepage": "https://github.com/DevJP777/Tea-Chalange#readme",
+  "homepage": "https://github.com/DevJP777/Tea-Chalange",
   "dependencies": {
     "tea-chalange": "^1.0.1"
   }
