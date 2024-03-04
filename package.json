@@ -1,6 +1,6 @@
 {
   "name": "tea-chalange",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/DevJP777/Tea-Chalange",
   "dependencies": {
-    "git": "^0.1.5",
-    "tea-chalange": "^1.0.1"
+    
   }
 }
