@@ -1,6 +1,6 @@
 {
   "name": "tea-chalange",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DevJP777/Tea-Chalange.git"
+    "url": "https://github.com/DevJP777/tea-chalange.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DevJP777/Tea-Chalange/issues"
+    "url": "https://github.com/DevJP777/tea-chalange/issues"
   },
-  "homepage": "https://github.com/DevJP777/Tea-Chalange",
+  "homepage": "https://github.com/DevJP777/tea-chalange",
   "dependencies": {
     
   }
