@@ -1,6 +1,6 @@
 {
   "name": "tea-chalange",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,8 @@
     "url": "https://github.com/DevJP777/tea-chalange/issues"
   },
   "homepage": "https://github.com/DevJP777/tea-chalange",
+  "source": "https://github.com/DevJP777/tea-chalange.git",
+  "Source": "https://github.com/DevJP777/tea-chalange.git",
   "dependencies": {
     "alchemy-sdk": "^3.1.2",
     "ethers": "^6.11.1",
