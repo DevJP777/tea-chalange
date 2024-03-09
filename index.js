@@ -2,7 +2,7 @@
 
 // Fungsi untuk menampilkan pesan "Hello, Tea"
 function helloTea() {
-    console.log("Hello, Tea!");
+    console.log("Hello, Tea protocol!");
   }
   
   // Panggil fungsi
