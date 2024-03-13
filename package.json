@@ -1,14 +1,14 @@
 {
   "name": "tea-chalange",
-  "version": "1.1.7",
-  "description": "",
-  "main": "index.js",
+  "version": "1.2.7",
+  "description": "chain explorer API",
+  "main": "./chainXplorer/chainXplorer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DevJP777/tea-chalange.git"
+    "url": "https://github.com/DevJP777/tea-chalange.git"
   },
   "author": "",
   "license": "ISC",

@@ -1,5 +1,5 @@
-// ChainXplorer.js
-const checkBalance = require('./evm/EVM');
+const evm = require("./evm/EVM");
+
 class ChainXplorer {
     constructor(config) {
       this.config = config;
